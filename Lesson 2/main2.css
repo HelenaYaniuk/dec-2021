@@ -1,0 +1,36 @@
+h1
+{
+    background: #8a2928;
+    text-align: center;
+    box-sizing:border-box
+
+}
+
+.one
+{
+background: #c0c0c0;
+margin-bottom:0;
+padding:20px
+}
+
+.two{
+    background: #6496ec;
+    margin:0;
+    padding-top:30px;
+    padding-bottom:30px;
+}
+
+.three{
+    background: #6cba68;
+    width: 200px;
+    height: 200px;
+
+
+
+}
+.four{
+    background: #8987ac;
+    height:200px;
+    width:200px;
+    border-radius: 30px
+}
