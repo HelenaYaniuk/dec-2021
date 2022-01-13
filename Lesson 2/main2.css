@@ -1,8 +1,9 @@
 h1
 {
     background: #8a2928;
-    text-align: center;
-    box-sizing:border-box
+    text-align: right;
+    box-sizing:border-box;
+    color: white
 
 }
 
