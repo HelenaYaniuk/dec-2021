@@ -1,0 +1,38 @@
+.box{
+    height: 600px;
+    width: 600px;
+    background: coral;
+    border: 3px solid black;
+    border-radius: 10px;
+    box-sizing: border-box;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 8px;
+}
+.a{
+    height: 33%;
+    width:97%;
+    margin-top: 10px;
+
+}
+.b{
+    height:63%;
+    width: 56%;
+
+
+}
+.c{
+    height:63%;
+    width: 40%;
+
+}
+.color{
+    background: darkseagreen;
+}
+.text{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
