@@ -7,11 +7,20 @@
 .h3{
     height: 200px;
 }
+.h4{
+    height: 50px;
+ }
 .w1{
     width: 320px;
 }
 .w2{
     width: 100px;
+}
+.w3{
+    width: 200px;
+}
+.w4{
+    width: 120px;
 }
 .bg1{
     background: #246abb;
@@ -21,6 +30,12 @@
 }
 .bg3{
     background: #246abb;
+}
+.bg4{
+    background: #5376ae;
+}
+.bg5{
+    background: #7ecde4;
 }
 .t{
     display: flex;
@@ -33,4 +48,17 @@
     column-gap: 10px;
     margin-top:10px;
     margin-bottom: 10px;
+}
+.mn{
+    margin-top: 100px;
+}
+.ma{
+    display: flex;
+}
+.box{
+    height: 600px;
+    width:600px;
+    display: flex;
+    margin-top: 100px;
+    flex-wrap: wrap;
 }
