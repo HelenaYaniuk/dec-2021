@@ -1,0 +1,36 @@
+.h1{
+    height: 150px;
+}
+.h2{
+    height: 100px;
+}
+.h3{
+    height: 200px;
+}
+.w1{
+    width: 320px;
+}
+.w2{
+    width: 100px;
+}
+.bg1{
+    background: #246abb;
+}
+.bg2{
+    background: #18467b;
+}
+.bg3{
+    background: #246abb;
+}
+.t{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: cornsilk;
+}
+.bw{
+    display: flex;
+    column-gap: 10px;
+    margin-top:10px;
+    margin-bottom: 10px;
+}
