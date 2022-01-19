@@ -55,10 +55,3 @@
 .ma{
     display: flex;
 }
-.box{
-    height: 600px;
-    width:600px;
-    display: flex;
-    margin-top: 100px;
-    flex-wrap: wrap;
-}
