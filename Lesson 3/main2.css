@@ -1,11 +1,11 @@
 .h{
-    height: 100px;
+    height: 50px;
 }
 .h4{
-    height: 400px;
+    height: 305px;
 }
 .h3{
-    height: 300px;
+    height: 140px;
 }
 .w{
     width: 500px;
@@ -13,8 +13,8 @@
 .w2{
     width: 200px;
 }
-.w3{
-    width: 300px;
+.w28{
+    width: 280px;
 }
 .bg2{
     background: cornflowerblue;
@@ -28,10 +28,21 @@
 .bg4{
     background: khaki;
 }
-.post{
-    row-gap: 20px;
-
+.mn1{
+    margin: 10px;
 }
 .menu{
     display: flex;
+}
+.br{
+    border: 2px solid black
+}
+.post{
+    display: flex;
+    flex-direction: column;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
