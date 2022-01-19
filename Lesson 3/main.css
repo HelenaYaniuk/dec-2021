@@ -14,25 +14,27 @@
     height: 33%;
     width:97%;
     margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 .b{
     height:63%;
     width: 56%;
-
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 .c{
     height:63%;
     width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 .color{
     background: darkseagreen;
-}
-.text{
-    display: flex;
-    text-align: center;
-    justify-content: center;
-
 }
