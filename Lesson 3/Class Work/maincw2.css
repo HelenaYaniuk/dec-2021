@@ -1,0 +1,45 @@
+.box{
+    height: 600px;
+    width: 600px;
+
+    border: 2px solid black;
+    border-radius: 10px;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+}
+.a{
+    height: 32%;
+    margin-top: 9px;
+}
+.w99{
+    width: 98%;
+}
+.bg{
+    background: darkgrey;
+}
+.inner-box{
+    height: 64%;
+    display: flex;
+}
+.t{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h{
+    height: 99%;
+    width: 25%;
+}
+.conteiner{
+    height: 100%;
+    width: 75%;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 6px;
+}
+.h49{
+    height: 49%;
+    width: 32%;
+}
