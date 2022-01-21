@@ -1,0 +1,59 @@
+.bg{
+    background: whitesmoke;
+  height: 600px;
+    width: 600px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center ;
+    flex-wrap: wrap;
+}
+.box{
+    height:73% ;
+    column-gap: 5px;
+
+}
+.bg2{
+    background: darkcyan;
+}
+.h1{
+    height: 23%;
+}
+.h2{
+    height: 63%;
+}
+.h3{
+    height: 49%;
+}
+.w1{
+    width: 98%;
+}
+
+.w2{
+    width: 71%;
+}
+.w3{
+    width: 28%;
+}
+.w4{
+width: 32%;
+}
+.d{
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center;
+    align-items: center;
+
+}
+.mg{
+    margin-top: 10px;
+}
+.t{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.f{
+    height: 98%;
+}
