@@ -1,0 +1,45 @@
+.conteiner{
+    height: 600px;
+    width: 600px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    background: cornsilk;
+}
+.h1{
+    height: 39%;
+    display: flex;
+    column-gap: 5px;
+}
+.h2{
+    height: 30%;
+}
+.h3{
+    height: 99%;
+}
+.w1{
+    width: 49%;
+}
+.w2{
+    width: 33%;
+}
+.k{
+   width: 99%;
+}
+.bg1{
+    background: #246abb;
+}
+.bg2{
+    background: #18467b;
+}
+ .t{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     color: cornsilk;
+ }
+ .box{
+     display: flex;
+     column-gap: 5px;
+ }
