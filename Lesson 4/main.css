@@ -1,0 +1,95 @@
+.conteiner{
+    height: 500px;
+    width: 600px;
+    background: cornsilk;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+
+}
+.box1{
+    height: 49%;
+    width: 80%;
+    border: 2px solid #56c3b6;
+    border-radius: 10px;
+}
+.box2{
+    height: 49%;
+    width: 95%;
+    background: darkblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    height: 5%;
+    width: 99%;
+    color: darkblue;
+    display: flex;
+    justify-content: center;
+}
+.inner-box{
+    height: 90%;
+    width: 99%;
+    display: flex;
+}
+.a{
+    height: 70%;
+    width: 99%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 5px;
+}
+.screan{
+    height: 50%;
+    width: 70%;
+    display: flex;
+    border: 1px solid darkblue;
+    border-radius: 10px;
+    background: darkblue;
+}
+.text{
+    height: 5%;
+    width: 50%;
+    background: darkblue;
+    border: 1px solid darkblue;
+    border-radius: 10px;
+}
+.b{
+    height: 95%;
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 5px;
+}
+.circle{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background: cornsilk;
+}
+.text2{
+    height: 10px;
+    width:80px;
+    background: cornsilk;
+    border: 1px solid cornsilk;
+    border-radius: 10px;
+}
+.text3{
+    height: 5px;
+    width:100px;
+    background: cornsilk;
+    border: 1px solid cornsilk;
+    border-radius: 10px;
+}
+.br{
+    height: 90%;
+    width: 30%;
+    border: 1px solid #56c3b6
+}
