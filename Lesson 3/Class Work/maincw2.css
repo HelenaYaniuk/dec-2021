@@ -43,3 +43,28 @@
     height: 49%;
     width: 32%;
 }
+@media screen and ( max-width: 576px){
+.inner-box{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px
+}
+    .conteiner{
+        height: 200px;
+        width: 595px;
+        row-gap: 6px;
+    }
+    .h{
+        height: 190px;
+        width: 583px;
+    }
+    .a{
+        height: 180px;
+    }
+    .mn{
+        height: 95px;
+    }
+    .bg{
+        border-radius: 10px;
+    }
+}
