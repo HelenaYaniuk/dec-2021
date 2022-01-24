@@ -63,16 +63,26 @@
     .box{
         display: flex;
         flex-direction: column;
-        flex-wrap: nowrap;
+       height: 400px;
+        row-gap: 22px;
     }
     .inner-box{
         height: 180px;
+        width: 590px;
+        row-gap: 10px;
 
     }
     .media{
         height: 180px;
+        width: 580px;
     }
     .a{
         height: 180px;
+        width: 575px;
+        border-radius: 10px;
+    }
+    .b{
+        border: 2px solid darkcyan;
+        border-radius: 10px;
     }
 }
