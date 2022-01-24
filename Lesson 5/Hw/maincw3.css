@@ -1,0 +1,164 @@
+.conteiner{
+    height: 600px;
+    width: 600px;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    column-gap: 10px;
+}
+.inner-box1{
+    display: flex;
+    flex-direction: column;
+    height: 350px;
+    width: 500px;
+    row-gap: 10px;
+}
+.inner-box2{
+    display: flex;
+    height: 450px;
+    width: 600px;
+    column-gap: 10px;
+}
+.inner-box3{
+    display: flex;
+    height: 95px;
+    width: 495px;
+    column-gap: 10px;
+}
+.inner-box4{
+    display: flex;
+    height: 345px;
+    width: 495px;
+    column-gap: 10px;
+}
+.inner-box5{
+    display: flex;
+    flex-direction: column;
+    height: 450px;
+    width: 95px;
+    row-gap: 10px;
+}
+.inner-box6{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    height: 100px;
+    width: 95px;
+}
+.inner-box8{
+    height: 50px;
+    width: 600px;
+    display: flex;
+    column-gap: 10px;
+}
+.box1{
+    height:50px ;
+    width: 95px;
+}
+.bg{
+    background: dimgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: cornsilk;
+}
+.box2{
+    height: 50px;
+    width: 495px;
+}
+.box3{
+    height: 340px;
+    width: 95px;
+}
+.box4{
+    height: 95px;
+    width: 295px;
+}
+.box5{
+    height:95px ;
+    width: 195px;
+}
+.box6{
+    height: 345px;
+    width: 295px;
+}
+.box7{
+    height: 345px;
+    width: 195px;
+}
+.box8{
+    height: 50px;
+    width: 95px;
+}
+.box10{
+    height: 50px;
+    width: 600px;
+}
+.inner-box7{
+    display: none;
+}
+@media screen and (max-width: 576px){
+   .conteiner{
+       height: 750px;
+       row-gap: 10px;
+   }
+    .inner-box6{
+        display: none;
+    }
+    .inner-box7{
+        display: flex;
+        height: 50px;
+        width: 600px;
+        column-gap: 10px;
+    }
+    .inner-box1{
+        height: 485px;
+        width: 600px;
+        row-gap: 20px;
+    }
+    .inner-box2{
+        display: flex;
+        flex-direction: column;
+        height: 530px;
+        row-gap: 20px;
+    }
+    .inner-box4{
+        display: flex;
+        flex-direction: column;
+        width: 600px;
+        row-gap: 20px;
+    }
+    .inner-box5{
+        height: 50px;
+        width: 600px;
+    }
+    .box3{
+        height: 50px;
+        width: 600px;
+    }
+    .inner-box3{
+        display: flex;
+        height: 95px;
+        width: 600px;
+        column-gap: 10px;
+    }
+    .box4{
+        width: 350px;
+    }
+    .box5{
+        width: 250px;
+    }
+    .box6{
+        width: 600px;
+    }
+    .box7{
+        height: 245px;
+        width: 600px;
+    }
+    .box8{
+        width: 300px;
+    }
+}
