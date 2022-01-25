@@ -44,21 +44,22 @@
     .box {
         display: flex;
         flex-direction: column;
+        width: 400px;
 
     }
     .a{
         height: 180px;
-        width: 97%;
+        width: 370px;
         margin: 8px auto;
     }
     .b{
         height: 180px;
-        width: 97%;
+        width: 370px;
         margin-left: 8px;
     }
     .c{
         height: 180px;
-        width: 97%;
+        width: 370px;
         margin-left: 8px;
         margin-top: 8px;
     }
