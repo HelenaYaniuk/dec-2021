@@ -151,11 +151,11 @@
         display: none;
     }
     .box1{
-        width: 490px;
+        width: 98%;
     }
     .center-bottom {
         height: 350px;
-        width: 500px;
+        width: 100%;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -164,19 +164,19 @@
 
     .conteiner {
         height: 750px;
-        width: 500px;
+        width: 100%;
     }
     .media31{
         height: 130px;
-        width: 450px;
+        width: 93%;
     }
     .box3{
-        width: 500px;
+        width: 100%;
         border-bottom:2px solid black;
     }
     .box4{
         height: 120px;
-        width: 500px;
+        width: 100%;
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
@@ -185,11 +185,11 @@
 
     }
     .media41{
-        width: 200px;
+        width: 40%;
     }
     .box5{
         height: 200px;
-        width: 500px;
+        width: 100%;
         display: flex;
         flex-wrap: wrap;
         column-gap: 63px;
@@ -201,39 +201,39 @@
 
     .box6 {
         height: 120px;
-        width: 500px;
+        width: 100%;
         display: flex;
         flex-wrap: wrap;
         justify-content: space-evenly;
         align-items: center;
     }
     .box7{
-        width: 500px;
+        width: 100%;
     }
     .media52{
         display: none;
     }
     .media51{
         height: 34px;
-        width: 180px;
+        width: 39%;
     }
     .media53{
-        width: 200px;
+        width: 40%;
     }
 
     .conteiner2 {
         height: 680px;
-        width: 500px;
+        width: 100%;
     }
 
     .center {
         height: 670px;
-        width: 500px;
+        width: 100%;
     }
 
     .media2 {
         height: 120px;
-        width: 200px;
+        width: 40%;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -241,11 +241,11 @@
     }
     .m{
         height: 30px;
-        width: 170px;
+        width: 37%;
     }
     .media21{
         height:105px ;
-        width: 170px;
+        width: 37%;
 
     }
 }
@@ -260,7 +260,7 @@
         display: none;
     }
     .medias11{
-        width: 200px;
+        width: 40%;
     }
     .box2 {
         display: none;
@@ -268,7 +268,7 @@
 
     .center-bottom {
         height: 450px;
-        width: 400px;
+        width: 100%;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -277,14 +277,14 @@
 
     .conteiner {
         height: 800px;
-        width: 400px;
+        width: 100%;
     }
     .media31{
         height: 110px;
-        width: 380px;
+        width: 98%;
     }
     .box3{
-        width: 400px;
+        width: 100%;
         border-bottom:2px solid black;
     }
     .media31{
@@ -292,7 +292,7 @@
     }
     .box4{
         height: 120px;
-        width: 400px;
+        width: 100%;
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
@@ -302,11 +302,11 @@
 
     }
     .media41{
-        width: 150px;
+        width: 30%;
     }
     .box5{
         height: 240px;
-        width: 400px;
+        width: 100%;
         display: flex;
         flex-direction: column;
         row-gap: 10px;
@@ -321,7 +321,7 @@
 
     .box6 {
         height: 220px;
-        width: 400px;
+        width: 100%;
         display: flex;
        flex-direction: column;
         justify-content: center;
@@ -335,25 +335,25 @@
     }
     .media51{
         height: 30px;
-        width: 380px;
+        width: 98%;
     }
     .media53{
-        width: 200px;
+        width: 50%;
     }
 
     .conteiner2 {
         height: 750px;
-        width: 400px;
+        width: 100%;
     }
 
     .center {
         height: 730px;
-        width: 400px;
+        width: 100%;
     }
 
     .media2 {
         height: 120px;
-        width: 400px;
+        width: 100%;
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -361,17 +361,17 @@
     }
     .m{
         height: 30px;
-        width: 380px;
+        width: 98%;
     }
     .media21{
         height:105px ;
-        width: 380px;
+        width: 98%;
     }
     .box7{
-        width: 400px;
+        width: 100%;
     }
     .medias71{
-        width: 380px;
+        width: 98%;
         margin-top: 5px;
     }
 }
