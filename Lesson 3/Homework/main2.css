@@ -14,7 +14,7 @@
     width: 200px;
 }
 .w28{
-    width: 280px;
+    width: 275px;
 }
 .bg2{
     background: cornflowerblue;
@@ -38,6 +38,7 @@
     border: 2px solid black
 }
 .post{
+
     display: flex;
     flex-direction: column;
 }
