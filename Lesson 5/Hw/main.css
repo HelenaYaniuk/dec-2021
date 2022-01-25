@@ -44,23 +44,23 @@
     .box {
         display: flex;
         flex-direction: column;
-        width: 400px;
+        width: 100%;
 
     }
     .a{
         height: 180px;
-        width: 370px;
+        width: 97%;
         margin: 8px auto;
     }
     .b{
         height: 180px;
-        width: 370px;
-        margin-left: 8px;
+        width: 97%;
+        margin-left: 3px;
     }
     .c{
         height: 180px;
-        width: 370px;
-        margin-left: 8px;
+        width: 97%;
+        margin-left: 3px;
         margin-top: 8px;
     }
     .color{
